@@ -58,8 +58,7 @@ The system follows a modular architecture with the following flow:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/DhairyaUmrania/FinancialRAGPipeline.git
-cd FinancialRAGPipeline
+git clone https://github.com/naman2398/instruction-tuned-financial-RAG.git
 ```
 
 2. Install dependencies:
