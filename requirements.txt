@@ -1,0 +1,17 @@
+pypdf
+langchain
+langchain-community
+langchain-huggingface
+langchain-pinecone
+pinecone
+python-dotenv
+numpy
+nltk
+huggingface-hub
+transformers
+torch
+accelerate
+sentence-transformers
+faiss-cpu
+requests
+rank_bm25
